@@ -1,0 +1,11 @@
+*
+!api/
+!api/*.py
+!config/
+!config/*.py
+!manage.py
+!requirements.lock.txt
+!requirements.azure.txt
+!gunicorn.conf.py
+!startup.sh
+!Dockerfile
